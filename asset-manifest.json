@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dopric/blog/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dopric/blog/static/js/main.b94b25be.chunk.js",
+    "main.js.map": "/dopric/blog/static/js/main.b94b25be.chunk.js.map",
+    "runtime-main.js": "/dopric/blog/static/js/runtime-main.05d38200.js",
+    "runtime-main.js.map": "/dopric/blog/static/js/runtime-main.05d38200.js.map",
+    "static/js/2.93744eca.chunk.js": "/dopric/blog/static/js/2.93744eca.chunk.js",
+    "static/js/2.93744eca.chunk.js.map": "/dopric/blog/static/js/2.93744eca.chunk.js.map",
+    "static/js/3.068afa3e.chunk.js": "/dopric/blog/static/js/3.068afa3e.chunk.js",
+    "static/js/3.068afa3e.chunk.js.map": "/dopric/blog/static/js/3.068afa3e.chunk.js.map",
+    "index.html": "/dopric/blog/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dopric/blog/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.93744eca.chunk.js.LICENSE.txt": "/dopric/blog/static/js/2.93744eca.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/dopric/blog/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05d38200.js",
+    "static/js/2.93744eca.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b94b25be.chunk.js"
+  ]
+}
