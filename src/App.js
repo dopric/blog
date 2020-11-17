@@ -8,8 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
       
        <h1>
-          Hello
-          </h1>
+          Testing React and GitHub Pages 
+        </h1>
       </header>
     </div>
   );
